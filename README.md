@@ -1,35 +1,46 @@
-## Hello there, I'm Nathan G. Abrenica (*Mochizukku*)
+## Hello there, I'm Nathan G. Abrenica (*Mochizukku*) 👋
 
 ### About Me
 
-I'm a college student who studies computer science. Not much experience in coding in general and have pretty decent skills in development.
+I'm a Computer Science student interested in software development, system design, and learning how real-world applications are built.
 
-### Social Links
+Currently, I'm focused on building projects, improving my development skills, and learning more about software architecture.
 
-[![X](https://shields.io)](https://www.flickr.com/photos/ronnyackerman667/6065510171)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/nathan-abrenica-774405333/)
-[![Facebook](https://shields.io)](https://www.facebook.com/mochizukku/)
+### 🔗 Social Links
 
-### Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-abrenica-774405333/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mochizukku2006/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mochizukku/)
 
 ### 🛠️ Tech Stack
 
-**Backend & Frameworks:**
-![Laravel](https://shields.io)
-![PHP](https://shields.io)
-![Flutter](https://shields.io)
+**Languages & Frameworks**
 
-**Tools & DevOps:**
-![Git](https://shields.io)
-![Jira](https://shields.io)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
-### 🚀 What I Do
+**Tools & Development**
 
-- 🌐 **Web Ecosystems:** Crafting robust applications using modern backend frameworks.
-- 🧪 **System Simulation:** Designing and testing network environments and architectures.
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+### 🚀 What I'm Working On
+
+- 🌐 Building web applications with Laravel and PHP
+- 📱 Developing mobile applications with Flutter
+- 🧩 Learning software architecture and system design
+- 🔧 Improving my Git and collaborative development workflow
+
+### 📌 Featured Projects
+
+- **SGuard** — A cloud-based expense tracking and analysis application.
+- **QR Query** — A QR-based ordering system developed for a school hackathon.
+- **SecureHub** — A Laravel-based team project. (unfinished)
 
 ### 📊 GitHub Stats
 
-![Nathan's GitHub Stats](https://vercel.app)
-
-
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mochizukku&show_icons=true&theme=default)

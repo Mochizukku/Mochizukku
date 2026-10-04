@@ -37,9 +37,9 @@ Currently, I'm focused on building projects, improving my development skills, an
 
 ### 📌 Featured Projects
 
-- **SGuard** — A cloud-based expense tracking and analysis application.
-- **QR Query** — A QR-based ordering system developed for a school hackathon.
-- **SecureHub** — A Laravel-based team project. (unfinished)
+- [**SGuard**](https://github.com/Mochizukku/SGuard-Expenses-Tracking-and-Analysis-System-Fully-Cloud-Version-) — A cloud-based expense tracking and analysis application.
+- [**QR Query**](https://github.com/Mochizukku/ACLC-PreHackathon) — A QR-based ordering system developed for a school hackathon.
+- [**SecureHub**](https://github.com/securets/securets) — A Laravel-based team project. (unfinished)
 
 ### 📊 GitHub Stats
 

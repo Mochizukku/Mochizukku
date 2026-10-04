@@ -43,4 +43,4 @@ Currently, I'm focused on building projects, improving my development skills, an
 
 ### 📊 GitHub Stats
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mochizukku&show_icons=true&theme=default)
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mochizukku&show_icons=true&theme=dark)
